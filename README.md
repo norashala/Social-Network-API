@@ -50,16 +50,6 @@ Before running the application, ensure you have the following installed:
 - **POST /api/users/:userId/friends/:friendId**: Add a friend to a user’s friend list.
 - **DELETE /api/users/:userId/friends/:friendId**: Remove a friend from a user’s friend list.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/new-feature`.
-3. Commit your changes: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
